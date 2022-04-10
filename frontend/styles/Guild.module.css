@@ -1,0 +1,12 @@
+.formCreateGuild > div {
+  margin-bottom: 2rem;
+}
+
+.inputFile {
+  margin-bottom: 2rem;
+}
+
+.labelFile {
+  margin-bottom: 0.5rem;
+  display: block;
+}
